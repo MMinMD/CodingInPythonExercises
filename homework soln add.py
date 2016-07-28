@@ -1,0 +1,5 @@
+name=input("What is your name?")
+print("Hello",name+'!')
+VAR1=int(input("Pick a number!:"))
+VAR2=int(input("Pick another number!:"))
+print('The sum of', VAR1,'and',VAR2,'is',VAR1+VAR2,'.')
